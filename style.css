@@ -4,8 +4,21 @@
     
 }
 
+.top-nav{
+    text-align: right;
+    margin-right: 60px;
+   padding-top: 20px;
+}
+
+.top-nav a{
+    text-decoration: none;
+    padding: 15px;
+    color: black;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 12px;
+}
 .container{
-    height: 400px;
+    height: 450px;
 }
 
 .first-div{
@@ -15,6 +28,9 @@
 .second-div{
     background-color: lightcyan;
 }
+
+
+
 .container-box{
     width: 42%;
     float: left;
@@ -88,6 +104,10 @@ h2{
     color: #363958;
     font-family: 'Bebas Neue', cursive;
     text-align: center;
+}
+
+#working-project{
+    margin-top: 50px;
 }
 
 h4{
