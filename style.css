@@ -1,0 +1,186 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+.container{
+    height: 400px;
+}
+
+.first-div{
+    background-image: url(images/biography-bg.png);
+    background-repeat: no-repeat;
+}
+.second-div{
+    background-color: lightcyan;
+}
+.container-box{
+    width: 42%;
+    float: left;
+
+}
+
+.container-box p{
+    color: #3E3E3E;
+    font-size: 10px;
+    font-family: 'Roboto', sans-serif;
+}
+.container-box h1{
+    color: #363958;
+    font-size: 30px;
+    font-family: 'Bebas Neue', cursive;
+}
+#highlight{
+    color: #FF8367;
+}
+.container-box img{
+    width: 100%;
+}
+.half{
+    margin-top: 150px;
+    margin-left: 50px;
+}
+
+button{
+    border: none;
+    background-color: tomato;
+    padding: 5px 30px;
+    border-radius: 10px;
+    color: white;
+    cursor: pointer;
+    margin-top: 20px;
+}
+
+.second-image{
+    margin-left: 50px;
+}
+
+.box{
+    width: 25%;
+    float: left;
+    margin:10px;
+    box-shadow: 0 0 5px gray;
+    height: 180px;
+    border-radius: 10px;
+    margin-left: 30px;
+}
+
+#project{
+   
+    margin-top: 30px;
+    margin-left: 20px;
+    height: 240px;
+
+}
+
+.project-image{
+    width: 100%;
+}
+
+    
+#lastest{
+    color: #F46060;
+}
+
+h2{
+    margin-top: 20px;
+    color: #363958;
+    font-family: 'Bebas Neue', cursive;
+    text-align: center;
+}
+
+h4{
+    margin-top: 5px;
+    font-family: 'Roboto', sans-serif;
+    color: #363958;
+    font-size: 12px;
+    text-align: center;
+}
+
+.box p{
+    font-family: 'Roboto', sans-serif;
+    color: #6C6C6C;
+    font-size: 8px;
+    text-align: center;
+    margin-top: 5px;
+    padding: 0px 5px;
+}
+
+section{
+    height: 385px;
+    background-image: url(images/biography-bg.png);
+
+    
+}
+.back-image{
+    height: 60px;
+}
+
+.work{
+    background-image: url(shapes/rectangle.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 60%;
+    height: 106px;
+    margin: auto;
+
+}
+.half-box{
+    
+    float: left;
+    width: 50%;
+}
+.half-box h2{
+    margin-top: 35px;
+    color: white;
+}
+.half-box button{
+    margin-top: 35px;
+    margin-left: 60px;
+    border-radius: 2px;
+    padding: 5px 15px;
+}
+
+.connect{
+    margin: auto;
+    width: 30%;
+    height: 150px;
+}
+
+.icon{
+    width: 20%;
+    float: left;
+}
+
+.icon img{
+    width: 100%;
+}
+
+.connect h5{
+    font-family: 'Bebas Neue', cursive;
+    color: #696871;
+    font-size:12px;
+    text-align: center;
+    margin-top: 70px;
+}
+
+.connect h3{
+    font-family: 'Roboto', sans-serif;
+    color: #363958;
+    font-size: 16px;
+    text-align: center;
+}
+
+.connect div{
+    margin-left: 15px;
+    margin-top: 8px;
+    
+}
+
+#copy-right{
+    color: white;
+    font-size: 8px;
+    text-align: center;
+    background-color: black;
+}
